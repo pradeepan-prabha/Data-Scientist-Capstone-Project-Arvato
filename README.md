@@ -1,7 +1,7 @@
 
 # Capstone Project: Create a Customer Segmentation Report for Arvato Financial Services
 Udacity Data Scientist Nanodegree capstone project to create Customer Segmentation for Arvato Financial Services
-You can read my Medium Blog Post in [here]().
+You can read my Medium Blog Post in [here](https://medium.com/@pradeepan.prabha/customer-segmentation-report-arvato-financial-solutions-6fb8e4466dc9).
 
 ## Project Motivation
 
